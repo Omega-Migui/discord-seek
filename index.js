@@ -9,7 +9,6 @@ client.once('ready', () => {
 });
 
 
-///////////////////////////////// Message privée à tout les membres d'un serveur Discord ///////////////////////////////
 const config = {
     prefix: '^',
   }
